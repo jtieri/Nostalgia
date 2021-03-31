@@ -13,3 +13,15 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Test directory being used to store media files
+media/
+
+# GoLang output directory
+.idea/
+
+# Test SQLite DB file
+*.db
+
+# Temporarily disable version control on front end
+views/

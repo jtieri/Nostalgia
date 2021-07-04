@@ -1,0 +1,7 @@
+- Check errors are being passed up and returned instead of ignored
+- Clean up
+- Make Post titles unique; double check schemas
+- Create User model
+- Basic db/controller for User
+- Add Login with basic JWT
+- Rework html/css a bit to add ability to test login and creating a blog

@@ -1,0 +1,13 @@
+webserver:
+  host:   "127.0.0.1"
+  port:   8080
+  static-files-path: "./views"
+mediaserver:
+  host:   "127.0.0.1"
+  port:   8081
+database:
+  user: "root"
+  password: "password"
+  host: "127.0.0.1"
+  port: 3306
+  name: "nostalgia"

@@ -21,7 +21,7 @@ media/
 .idea/
 
 # Test SQLite DB file
-*.db
+#*.db
 
 # Temporarily disable version control on front end
-views/
+#views/
